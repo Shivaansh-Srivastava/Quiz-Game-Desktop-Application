@@ -2,7 +2,7 @@
 
 <h2>About Quiz Game</h2>
 <p>Quiz Game is a Desktop Application made using .NET FrameWork. Quiz Game is an application which helps you to have fun filled moments with your friends or family.
-The Quiz Game Application helps you play MCQs based Quizzes. The Application requires only an excel sheet which should contain the questions along with the required options
+The Quiz Game Application helps you play MCQs based Quizzes. The Application requires only an excel sheet(.xlsx extension) which should contain the questions along with the required options
 and the answer.</p>
 <img width="221" alt="image" src="https://user-images.githubusercontent.com/72780341/147272229-f48dd818-102b-4065-8de7-0d4673003821.png">
 <img width="611" alt="image" src="https://user-images.githubusercontent.com/72780341/147272163-ff00c639-2cfc-41fb-9cfb-1aa277378387.png">
@@ -12,7 +12,7 @@ and the answer.</p>
 Windows OS.</p>
 
 <h2>Format of the Excel Sheet for the Application</h2>
-<p>For the application to run properly, a certain format for the application has to be followed. The Excel doc should contain only one worksheet. In that it should have six columns.</p>
+<p>For the application to run properly, a certain format for the application has to be followed. The Excel doc(.xlsx) should contain only one worksheet. In that it should have six columns.</p>
 <ul>
   <li>Column 1: Question</li>
   <li>Column 2: Option 1</li>
